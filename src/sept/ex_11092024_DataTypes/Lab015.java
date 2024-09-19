@@ -15,7 +15,7 @@ public class Lab015 {
         float f = 3.14f;
         float f2 = 3.14F; // 32 bits, 4 Byte
 
-        double d = 118.987986 //64 bits, 8 Byte
+        double d = 118.987986; //64 bits, 8 Byte
 
 
         // Non primitive data Types (user defined)
