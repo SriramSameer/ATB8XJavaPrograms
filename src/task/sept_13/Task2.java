@@ -1,6 +1,6 @@
-package sept.ex_13092024;
+package task.sept_13;
 
-public class Assign2 {
+public class Task2 {
     public static void main(String[] args) {
         double a = 34;
         double b = 10;

@@ -1,6 +1,6 @@
-package sept.ex_18092924;
+package task.sept_18;
 
-public class Asssign01 {
+public class Task01 {
     public static void main(String[] args) {
         byte c=7;
         int a=c;

@@ -1,6 +1,6 @@
-package sept.ex_13092024;
+package task.sept_13;
 
-public class Assign1 {
+public class Task1 {
     public static void main(String[] args) {
         int num = 10;
         System.out.printf("%d * %d = %d", num,1,num*1 );
