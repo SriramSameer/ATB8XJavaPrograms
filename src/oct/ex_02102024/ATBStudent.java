@@ -4,13 +4,14 @@ public class ATBStudent extends Object {
 
         // C - ATBStudent
         //  A - Attribute | data members | instance variables | fields | member variables
-        long phone;
+        public long phone;
+        public int batch;
         String email;
-        int age;
+        public int age;
         int batch8x;
-        String name;
+        public String name;
         boolean isMale;
-        String address;
+        public String address;
         boolean isfeedPaid;
         String githublink;
         String sid;
