@@ -9,8 +9,6 @@ public class Lab195_RightTriangle_Arrays_2D {
         //***
         //****
         //*****
-
-        public static void main (String[]args){
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter the num n=5");
             int n = sc.nextInt();
@@ -24,4 +22,3 @@ public class Lab195_RightTriangle_Arrays_2D {
             }
         }
     }
-}
