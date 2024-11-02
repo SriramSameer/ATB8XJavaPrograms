@@ -1,19 +1,20 @@
 package oct.ex_14102024.realex2;
 
 public class WagonR {
-    void drive(){
-        startEngine();
-        stopEngine();
-    }
+    void drive() {
+//        startEngine();
+//        stopEngine();
+//    }
 
-    @Override
-    void startEngine() {
-        System.out.println("starting car");
-    }
+//    @Override
+//    void startEngine() {
+//        System.out.println("starting car");
+//    }
+//
+//    @Override
+//    void stopEngine() {
+//        System.out.println("stopping car");
+//    }
 
-    @Override
-    void stopEngine() {
-        System.out.println("stopping car");
     }
-
 }

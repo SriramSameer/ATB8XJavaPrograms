@@ -6,8 +6,8 @@ public class Lab144 {
         CHROMETC c  = new CHROMETC();
         c.openBrowser("chrome");
         c.closeBrowser("chrome");
-        c.takeScreenshot();
-        c.NoBodyKnowsWhereIamPresent();
+//        c.takeScreenshot();
+//        c.NoBodyKnowsWhereIamPresent();
 
         FIREFOXTC firefoxtc = new FIREFOXTC();
         firefoxtc.openBrowser("FIREFOX");
